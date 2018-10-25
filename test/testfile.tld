@@ -13,4 +13,6 @@
     Master INIT
     Branch A Commit & Push 1 to Local Branch
     Branch B Push 1 to Local Branch
+
+    Branch A Merge Contents from BranchB
 </taglib>
